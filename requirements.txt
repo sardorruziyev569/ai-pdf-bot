@@ -1,0 +1,5 @@
+aiogram 
+fpdf2 
+pillow 
+numpy 
+rapidocr-onnxruntime
